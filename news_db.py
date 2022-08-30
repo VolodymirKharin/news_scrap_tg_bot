@@ -67,9 +67,3 @@ def get_news_by_id(news_id):
 
 if __name__ == '__main__':
     create_table()
-
-    # del_table()
-    # get_news_by_id(3)
-    # add_news(new_title='new vaule', new_date_time='27-08-2022', new_link="https://www.tesmanian.com/blogs/tesmanian-blog/launch-star/")
-    # print(get_last_5_news())
-    #
